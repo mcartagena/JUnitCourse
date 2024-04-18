@@ -1,11 +1,11 @@
-package com.mcartagena.com.mcartagena.junit.helper;
+package com.mcartagena.junit.helper;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class StringHelperTest {
+public class StringHelperTest {
 
     StringHelper helper;
 

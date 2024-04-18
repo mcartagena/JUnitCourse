@@ -1,4 +1,4 @@
-package com.mcartagena.com.mcartagena.junit.helper;
+package com.mcartagena.junit.helper;
 
 import org.junit.jupiter.api.*;
 
